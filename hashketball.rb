@@ -1,7 +1,6 @@
 # Write your code here!
 game_hash
-#returns hash
-team = {
+  team = {
         :home => 
           {
             :team_name => "Brooklyn Nets", 
