@@ -1,11 +1,12 @@
 # Write your code here!
 game_hash
-  team = {
-        :home => 
-          {
-            :team_name => "Brooklyn Nets", 
-            :colors => ["Black", "White"], 
-            :players => 
+  team = 
+    {
+      :home => 
+        {
+          :team_name => "Brooklyn Nets", 
+          :colors => ["Black", "White"], 
+          :players => 
             [
               {
                 :player_name => "Alan Anderson", 
@@ -63,13 +64,13 @@ game_hash
                 :slam_dunks => 1
               }
             ]
-          }, 
-        :away => 
-          {
-            :team_name => "Charlotte Hornets", 
-            :colors => ["Turquoise", "Purple"], 
-            :players => 
-          [
+        }, 
+      :away => 
+        {
+          :team_name => "Charlotte Hornets", 
+          :colors => ["Turquoise", "Purple"], 
+          :players => 
+            [
               {
                 :player_name => "Jeff Adrien", 
                 :number => 4, 
@@ -126,8 +127,8 @@ game_hash
                 :slam_dunks => 12
               }
             ]
-          } 
-        }
+        } 
+    }
 end
 
 
