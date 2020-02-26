@@ -7,7 +7,7 @@ team = {:home =>
           players => [{}]}, 
         :away => 
           {:team_name => "Charlotte Hornets", 
-          :colors => ["Turquoise", "White"], 
+          :colors => ["Turquoise", "Purple"], 
           players => [{}]} }
 end
 
