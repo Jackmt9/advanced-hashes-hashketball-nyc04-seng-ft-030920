@@ -129,7 +129,6 @@ game_hash
             ]
         } 
     }
-    return team
 end
 
 
